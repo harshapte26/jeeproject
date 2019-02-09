@@ -279,7 +279,7 @@ public Start1(String choices,  String choice1)
         
         for(int j=1;j<=6;j++){          
 
-            for(int k=1;k<=10;k++){
+            for(int k=1;k<=6;k++){
                 //int value=0;
                 value=(k-1)*6+(j);
                 if(value<=qcounter){
